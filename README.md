@@ -84,10 +84,10 @@ Passion  : Breaking things to understand how they work
 
 <div align="center">
 
-![Muthupriyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muthupriyan-dev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41)
+![Muthupriyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muthupriyan-dev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&cache_seconds=0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muthupriyan-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41)
-&cache_seconds=0
+
 </div>
 
 ---
