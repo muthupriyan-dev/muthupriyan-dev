@@ -65,7 +65,8 @@ Passion  : Breaking things to understand how they work
 | 🔐 [PassGuard Ultimate](https://github.com/muthupriyan-dev/passguard_ultimate) | Advanced Password Strength Checker | HTML · CSS · JS |
 | 🧮 [Calculator](https://github.com/muthupriyan-dev/calculator) | Clean & functional calculator | HTML · CSS · JS |
 | 🎮 [Tic-Tac-Toe](https://github.com/muthupriyan-dev/tic-tac-toe) | Classic Tic-Tac-Toe game | HTML · CSS · JS |
-| 💖 FLAMES Calculator | FLAMES calculator (Friends, Love, Affection, Marriage, Enemy, Siblings) | HTML · CSS · JS |
+| 💖
+ [FLAMES Calculator](https://github.com/muthupriyan-dev/flames) | FLAMES calculator (Friends, Love, Affection, Marriage, Enemy, Siblings) | HTML · CSS · JS |
 
 ---
 
