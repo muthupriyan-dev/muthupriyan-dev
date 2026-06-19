@@ -66,7 +66,7 @@ Passion  : Breaking things to understand how they work
 | 🧮 [Calculator](https://github.com/muthupriyan-dev/calculator) | Clean & functional calculator | HTML · CSS · JS |
 | 🎮 [Tic-Tac-Toe](https://github.com/muthupriyan-dev/tic-tac-toe) | Classic Tic-Tac-Toe game | HTML · CSS · JS |
 | 💖 [FLAMES Calculator](https://github.com/muthupriyan-dev/flames) | FLAMES calculator (Friends, Love, Affection, Marriage, Enemy, Siblings) | HTML · CSS · JS |
-
+| 🛡️ [PhishGuard AI](https://github.com/muthupriyan-dev/phishguard-ai) | Client-side phishing URL analyzer with risk scoring, favicon comparison & PDF reports | HTML · CSS · JS · Chart.js · jsQR · jsPDF |
 ---
 
 ## `> cat learning.log`
