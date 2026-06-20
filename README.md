@@ -67,6 +67,7 @@ Passion  : Breaking things to understand how they work
 | 🎮 [Tic-Tac-Toe](https://github.com/muthupriyan-dev/tic-tac-toe) | Classic Tic-Tac-Toe game | HTML · CSS · JS |
 | 💖 [FLAMES Calculator](https://github.com/muthupriyan-dev/flames) | FLAMES calculator (Friends, Love, Affection, Marriage, Enemy, Siblings) | HTML · CSS · JS |
 | 🛡️ [PhishGuard AI](https://github.com/muthupriyan-dev/phishguard) | Client-side phishing URL analyzer with risk scoring, favicon comparison & PDF reports | HTML · CSS · JS · Chart.js · jsQR · jsPDF |
+| 🎓 Smart Attendance System | QR Code + Firebase Realtime Database based attendance tracker with teacher/student modes, monthly report export | HTML, CSS, JS, Firebase | [Live Demo](https://muthupriyan-dev.github.io/REPO-NAME/attendance-system.html) |
 ---
 
 ## `> cat learning.log`
