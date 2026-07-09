@@ -74,11 +74,12 @@ Passion  : Breaking things to understand how they work
 ## `> stats --github`
 
 <div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=muthupriyan-dev&theme=tokyonight)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muthupriyan-dev&theme=github_dark)
 
-
+</div>
 ---
 
 ## `> connect --social`
