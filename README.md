@@ -74,9 +74,9 @@ Passion  : Breaking things to understand how they work
 ## `> stats --github`
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muthupriyan-dev&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=muthupriyan-dev&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muthupriyan-dev&layout=compact&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muthupriyan-dev&theme=github_dark)
 
 
 ---
