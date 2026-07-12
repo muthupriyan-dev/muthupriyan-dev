@@ -78,9 +78,6 @@ Passion  : Breaking things to understand how they work
 ![](https://streak-stats.demolab.com/?user=muthupriyan-dev&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=muthupriyan-dev&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=muthupriyan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&theme=chartreuse-dark&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3" />
 
