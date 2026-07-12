@@ -75,19 +75,16 @@ Passion  : Breaking things to understand how they work
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=muthupriyan-dev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=muthupriyan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=muthupriyan-dev&theme=ambient_gradient&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=muthupriyan-dev&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muthupriyan-dev&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muthupriyan-dev&layout=compact&theme=tokyonight&hide_border=true)
 
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&theme=tokyo-night&hide_border=true" />
 
 </div>
+
 
 ---
 
