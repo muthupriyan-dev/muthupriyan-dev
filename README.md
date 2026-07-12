@@ -70,18 +70,23 @@ Passion  : Breaking things to understand how they work
 ```
 
 ---
-
 ## `> stats --github`
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=muthupriyan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=muthupriyan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-![](https://streak-stats.demolab.com?user=muthupriyan-dev&theme=tokyonight&hide_border=true)
+<br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muthupriyan-dev&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=muthupriyan-dev&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&theme=tokyo-night&hide_border=true" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthupriyan-dev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3" />
 
 </div>
 
