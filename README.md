@@ -81,9 +81,8 @@ Passion  : Breaking things to understand how they work
 ---
 [![](https://komarev.com/ghpvc/?username=muthupriyan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&theme=chartreuse-dark&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3" />
 
 </div>
 
