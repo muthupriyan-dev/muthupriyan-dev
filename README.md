@@ -74,9 +74,9 @@ Passion  : Breaking things to understand how they work
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=muthupriyan-dev&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=muthupriyan-dev&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=muthupriyan-dev&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Muthupriyan-dev&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Muthupriyan-dev&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muthupriyan-dev&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&theme=chartreuse-dark&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3" />
