@@ -74,17 +74,14 @@ Passion  : Breaking things to understand how they work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muthupriyan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+![](https://github-readme-stats.shion.dev/api?username=muthupriyan-dev&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=muthupriyan-dev&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muthupriyan-dev&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br><br>
+---
+[![](https://komarev.com/ghpvc/?username=muthupriyan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://streak-stats.demolab.com?user=muthupriyan-dev&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthupriyan-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muthupriyan-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3" />
 
