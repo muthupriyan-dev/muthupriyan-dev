@@ -40,12 +40,14 @@ Passion  : Breaking things to understand how they work
 ![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
+![HIBP API](https://img.shields.io/badge/HIBP_API-DC3545?style=for-the-badge&logoColor=white)
 
 **💻 Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 
 **⚙️ Backend & Database**
@@ -63,6 +65,8 @@ Passion  : Breaking things to understand how they work
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6A5ACD?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![TMDb API](https://img.shields.io/badge/TMDb_API-01D277?style=for-the-badge&logo=themoviedatabase&logoColor=white)
+![Tavily API](https://img.shields.io/badge/Tavily_API-2E86AB?style=for-the-badge&logoColor=white)
 
 **🔧 Tools & Deploy**
 
